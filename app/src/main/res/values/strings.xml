@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ShibaInuViews</string>
+    <string name="one">One</string>
+    <string name="view">View</string>
+    <string name="worth_a">Worth a</string>
+    <string name="thousand_words">Thousand Words</string>
+    <string name="settings">Settings</string>
+    <string name="photoOneTitle">Hello <br />There!</string>
+    <string name="photoOneRatingScore">4.71</string>
+    <string name="photoOneRatingNumber">(421)</string>
+    <string name="photoTwoRatingScore">4.77</string>
+    <string name="photoTwoRatingNumber">(818)</string>
+    <string name="photoTwoTitle">The Breed</string>
+    <string name="photoThreeRatingScore">4.41</string>
+    <string name="photoThreeRatingNumber">261</string>
+    <string name="photoThreeTitle">The Happy Time</string>
+    <string name="backArrow">Back arrow</string>
+    <string name="secondActivityDescription">This is one of the cutest dogs on the world <br />…</string>
+    <string name="secondUpArrow">Second up arrow</string>
+    <string name="moreDetails">More Details</string>
+    <string name="headerBackgroundThirdActivity">Background of third activity header</string>
+    <string name="downArrow">Down arrow</string>
+    <string name="helloThere">Hello There</string>
+    <string name="thirdActivityTitleOne">About Shiba-Inu</string>
+    <string name="thirdActivityTextOne">The Shiba Inu dog breed was originally bred to flush birds and small game, and was occasionally used to hunt wild boar. Shibas are known for their spirited personality, small upright ears, and cat-like agility. Today they serve primarily as companion dogs in Japan and the United States.</string>
+    <string name="thirdActivityTitleTwo">Why Shiba Inus Are The Best Dogs</string>
+    <string name="thirdActivityTextTwo">Shibas are very much big dogs in little packages and noted for their loyalty to their family. Shibas are very intelligent, proud, and dignified. … Shibas are extremely people-oriented and require a good amount of love and attention from their owners to be happy. They do best as house dogs.</string>
+    <string name="thirdActivityButton">FIND BREEDER</string>
+</resources>

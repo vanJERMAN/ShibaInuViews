@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--    kle določimo iz kere strani se bo prikazalo v eni sekundi.. v našem primeru gre iz spodaj navzgor.-->
+    <translate android:duration="1000"
+        android:fromXDelta="0%"
+        android:fromYDelta="500%"/>
+
+<!--    opacity, torej v 1,4 sekunde se iz 0 opacity spremeni v 100% opacity, torej se prikaže-->
+    <alpha android:duration="1400"
+        android:fromAlpha="0"
+        android:toAlpha="1"/>
+
+</set>
